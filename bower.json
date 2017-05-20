@@ -1,0 +1,20 @@
+{
+  "name": "my first boostraProject",
+  "homepage": "https://github.com/CarmelaMORA/ProjectOne1",
+  "authors": [
+    "carmelaMORA <carmela-morales@outlook.com>"
+  ],
+  "description": "how to use basic bootstrap class",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
